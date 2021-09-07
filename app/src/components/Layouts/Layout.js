@@ -5,8 +5,8 @@ function Layout(props) {
   return (
     <>
       <Header />
-      <main className="flex-grow">{props.children}</main>
-      <Footer />
+      <main className="flex-grow" style={{paddingBottom: "2rem"}}>{props.children}</main>
+      <Footer/>
     </>
   );
 }

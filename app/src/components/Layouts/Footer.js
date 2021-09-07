@@ -8,7 +8,7 @@ export default function Footer() {
           <a
             class="navbar-brand mr-0"
             target="_blank"
-            href="https://github.com/KvsMahesh/CoWin-Replica"
+            href="https://github.com/Spourgeon2000/Covin-Info"
           >
             <Badge pill bg="dark">
               <svg
